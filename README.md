@@ -12,6 +12,14 @@ I’m an aspiring AI engineer and software developer passionate about building i
 
 ---
 
+## 💻 My Preferred Stack
+
+- 🐍 **Python** – My primary language for AI/ML, data science, and backend development  
+- ⚛️ **JavaScript** – For full-stack and web application development (MERN stack)  
+- 🔧 **Golang** – For building efficient backend services and exploring system-level development
+
+---
+
 ## 🛠️ Skills
 
 - **Languages & Frameworks**: Python, JavaScript (MERN Stack), Golang, Java, C/C++, R  
