@@ -8,15 +8,15 @@
 
 ## 🚀 About Me
 
-I’m a passionate AI engineer and software developer with a strong foundation in machine learning, deep learning, cloud computing, and full-stack development. Currently pursuing my Master's at the University of Florida, I thrive at the intersection of AI research and real-world applications — especially in healthcare, finance, and GenAI.
+I’m an aspiring AI engineer and software developer passionate about building impactful systems using artificial intelligence and cloud technologies. I specialize in Python-driven AI solutions, love crafting full-stack applications with JavaScript, and enjoy exploring backend systems in Golang. I'm driven to solve real-world problems in healthcare, finance, and generative AI.
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages & Frameworks**: Python, Java, C/C++, Golang, JavaScript, MERN Stack, R  
-- **AI/ML & Data**: TensorFlow, PyTorch, OpenAI, ResNet-50, LSTM, YOLOv8, LangChain, Whisper  
-- **Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, Prometheus, Grafana  
+- **Languages & Frameworks**: Python, JavaScript (MERN Stack), Golang, Java, C/C++, R  
+- **AI/ML & Data**: PyTorch, TensorFlow, ResNet-50, LSTM, YOLOv8, LangChain, Whisper, Grad-CAM  
+- **Cloud & DevOps**: AWS (EC2, Lambda, S3), Azure, Docker, Kubernetes, Prometheus, Grafana  
 - **Tools**: MySQL, Git, Unix, Microsoft Office, Google Suite
 
 ---
@@ -25,12 +25,12 @@ I’m a passionate AI engineer and software developer with a strong foundation i
 
 ### 🔍 Context-Based Intelligent Knowledge Retrieval (GenAI)  
 _Aug 2024 – Present_  
-RAG system using LangChain, OpenAI, Pinecone, Flask, Whisper, and AWS for multimodal knowledge retrieval and processing.  
-⚙️ Containerized with Docker | Monitored with Prometheus & Grafana
+Built a RAG-based system using LangChain, OpenAI APIs, Pinecone, Whisper, and Flask with multimodal support for text and audio.  
+☁️ Containerized via Docker and monitored with Prometheus + Grafana on AWS.
 
 ### 🫁 Pneumonia Classification with ResNet-50  
 _Dec 2023_  
-Applied deep learning and Grad-CAM to detect pneumonia from chest X-rays with regional density analysis.  
+Used deep learning with ResNet-50 to detect pneumonia from chest X-rays. Integrated Grad-CAM for interpretability and density analysis.
 
 ---
 
@@ -38,40 +38,47 @@ Applied deep learning and Grad-CAM to detect pneumonia from chest X-rays with re
 
 ### 💼 Machine Learning Intern | Ernst & Young  
 _Jun 2024 – Aug 2024_  
-Built GenAI solutions for finance, enhanced NLP systems using OCR and LLMs, and deployed models with AWS EC2 & Lambda.
+- Developed GenAI solutions for finance  
+- Enhanced NLP with OCR + LLMs  
+- Deployed models using AWS EC2 & Lambda  
 
 ### 🧪 ML Research Intern | Neural Garage Pvt Ltd  
 _Jan 2024 – May 2024_  
-Worked on real-time AI-powered lip-sync pipelines and anomaly detection using YOLOv8 with Docker and Kubernetes.
+- Built real-time AI pipelines for lip-syncing  
+- YOLOv8-based anomaly detection  
+- Dockerized systems for scalable deployment  
 
 ### 🔐 Software Dev & Cybersecurity Intern | Securizen Pvt Ltd  
 _Dec 2023 – Jan 2024_  
-Improved visualization dashboards and learned hands-on white hat security techniques using Kali Linux.
+- Enhanced CloudCCTV dashboards with MERN stack  
+- Worked on threat analysis and forensics using Kali Linux  
 
 ---
 
 ## 🏅 Certifications
 
-- Amazon Bedrock
-- DLN, CNN, RNN, NLP
-- AWS & Azure Cloud Management
-- Agile Project Management
-- SAP with OLAP/OLTP
+- Amazon Bedrock  
+- Deep Learning with CNN, RNN, NLP  
+- AWS & Azure Cloud Management  
+- Agile Project Management, MLOps  
+- SAP with OLAP/OLTP  
 - Microsoft Azure Fundamentals
-- MLOps and Cloud Computing
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atrearyan&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atrearyan&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=atrearyan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrearyan&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=atrearyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+</p>
 
 ---
 
 > “Code is the language of the future, and I’m here to write it with intelligence.”
 
-Thanks for visiting my profile! ⭐️  
-Feel free to connect or collaborate!
-
+Thanks for stopping by! ⭐  
+Let’s connect or collaborate on something awesome!
