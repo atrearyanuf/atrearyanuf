@@ -89,10 +89,3 @@ _Dec 2023 – Jan 2024_
 </p>
 
 ---
-
-## 🔧 `.gitattributes` for Accurate Language Stats
-
-If GitHub is showing incorrect language percentages (like HTML 100%), add this to a `.gitattributes` file in your repo:
-
-```gitattributes
-*.html linguist-detectable=false
