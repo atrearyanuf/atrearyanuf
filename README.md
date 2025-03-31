@@ -83,6 +83,7 @@ _Dec 2023 – Jan 2024_
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=atrearyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
 </p>
+*.html linguist-detectable=false
 
 ---
 
