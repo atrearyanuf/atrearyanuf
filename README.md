@@ -8,24 +8,27 @@
 
 ## 🚀 About Me
 
-I’m an aspiring AI engineer and software developer passionate about building impactful systems using artificial intelligence and cloud technologies. I specialize in Python-driven AI solutions, love crafting full-stack applications with JavaScript, and enjoy exploring backend systems in Golang. I'm driven to solve real-world problems in healthcare, finance, and generative AI.
+I'm an AI engineer and software developer passionate about building impactful, intelligent systems. I focus on leveraging Python for deep learning, JavaScript for full-stack applications, and Golang for backend systems. My experience spans across healthcare, finance, and generative AI domains.
 
 ---
 
 ## 💻 My Preferred Stack
 
-- 🐍 **Python** – My primary language for AI/ML, data science, and backend development  
-- ⚛️ **JavaScript** – For full-stack and web application development (MERN stack)  
-- 🔧 **Golang** – For building efficient backend services and exploring system-level development
+| Priority | Language     | Usage                               |
+|----------|--------------|-------------------------------------|
+| 🥇       | **Python**    | AI/ML, Deep Learning, Backend APIs  |
+| 🥈       | **JavaScript**| Full-stack (MERN), dashboards       |
+| 🥉       | **Golang**    | Backend services, system-level apps |
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-- **Languages & Frameworks**: Python, JavaScript (MERN Stack), Golang, Java, C/C++, R  
-- **AI/ML & Data**: PyTorch, TensorFlow, ResNet-50, LSTM, YOLOv8, LangChain, Whisper, Grad-CAM  
+- **Languages**: Python, JavaScript, Golang, Java, C/C++, R  
+- **AI/ML**: PyTorch, TensorFlow, LangChain, Whisper, ResNet-50, YOLOv8, Grad-CAM  
 - **Cloud & DevOps**: AWS (EC2, Lambda, S3), Azure, Docker, Kubernetes, Prometheus, Grafana  
-- **Tools**: MySQL, Git, Unix, Microsoft Office, Google Suite
+- **Databases**: MySQL  
+- **Other Tools**: Git, Unix, MS Office, Google Suite
 
 ---
 
@@ -34,43 +37,44 @@ I’m an aspiring AI engineer and software developer passionate about building i
 ### 🔍 Context-Based Intelligent Knowledge Retrieval (GenAI)  
 _Aug 2024 – Present_  
 Built a RAG-based system using LangChain, OpenAI APIs, Pinecone, Whisper, and Flask with multimodal support for text and audio.  
-☁️ Containerized via Docker and monitored with Prometheus + Grafana on AWS.
+☁️ Dockerized and monitored with Prometheus + Grafana.
 
 ### 🫁 Pneumonia Classification with ResNet-50  
 _Dec 2023_  
-Used deep learning with ResNet-50 to detect pneumonia from chest X-rays. Integrated Grad-CAM for interpretability and density analysis.
+Used deep learning and Grad-CAM to classify pneumonia from chest X-rays, including density region analysis.
 
 ---
 
-## 🧑‍💼 Experience
+## 💼 Experience
 
-### 💼 Machine Learning Intern | Ernst & Young  
+### 🧠 Machine Learning Intern | Ernst & Young  
 _Jun 2024 – Aug 2024_  
-- Developed GenAI solutions for finance  
 - Enhanced NLP with OCR + LLMs  
-- Deployed models using AWS EC2 & Lambda  
+- Developed GenAI financial analytics  
+- Deployed on AWS Lambda + EC2
 
-### 🧪 ML Research Intern | Neural Garage Pvt Ltd  
+### 🎙️ ML Research Intern | Neural Garage Pvt Ltd  
 _Jan 2024 – May 2024_  
-- Built real-time AI pipelines for lip-syncing  
-- YOLOv8-based anomaly detection  
-- Dockerized systems for scalable deployment  
+- Built AI pipelines for lip-syncing  
+- YOLOv8 anomaly detection  
+- Dockerized for real-time production
 
 ### 🔐 Software Dev & Cybersecurity Intern | Securizen Pvt Ltd  
 _Dec 2023 – Jan 2024_  
-- Enhanced CloudCCTV dashboards with MERN stack  
-- Worked on threat analysis and forensics using Kali Linux  
+- Improved CloudCCTV dashboard (MERN)  
+- Conducted white-hat security testing  
 
 ---
 
 ## 🏅 Certifications
 
 - Amazon Bedrock  
-- Deep Learning with CNN, RNN, NLP  
+- DL with CNN, RNN, NLP  
 - AWS & Azure Cloud Management  
-- Agile Project Management, MLOps  
-- SAP with OLAP/OLTP  
-- Microsoft Azure Fundamentals
+- Agile Project Management  
+- SAP OLAP/OLTP  
+- Microsoft Azure Fundamentals  
+- Cloud Computing & MLOps
 
 ---
 
@@ -83,11 +87,12 @@ _Dec 2023 – Jan 2024_
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=atrearyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
 </p>
-*.html linguist-detectable=false
 
 ---
 
-> “Code is the language of the future, and I’m here to write it with intelligence.”
+## 🔧 `.gitattributes` for Accurate Language Stats
 
-Thanks for stopping by! ⭐  
-Let’s connect or collaborate on something awesome!
+If GitHub is showing incorrect language percentages (like HTML 100%), add this to a `.gitattributes` file in your repo:
+
+```gitattributes
+*.html linguist-detectable=false
