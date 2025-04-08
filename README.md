@@ -27,7 +27,7 @@ I'm an AI engineer and software developer passionate about building impactful, i
 - **Languages**: Python, JavaScript, Golang, Java, C/C++, R  
 - **AI/ML**: PyTorch, TensorFlow, LangChain, Whisper, ResNet-50, YOLOv8, Grad-CAM  
 - **Cloud & DevOps**: AWS (EC2, Lambda, S3), Azure, Docker, Kubernetes, Prometheus, Grafana  
-- **Databases**: MySQL  
+- **Databases**: MySQL, Cassandra and postgresql
 - **Other Tools**: Git, Unix, MS Office, Google Suite
 
 ---
